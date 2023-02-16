@@ -1,15 +1,6 @@
-<html>
-  <head>
-    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-  </head>
-  <body>
-    <h1>AMP Embed<h2>
+#AMP Embed
     
-    <h2>Staging/WFOrg/StripeForm</h2>
+##Staging/WFOrg/StripeForm
     
-    <amp-iframe src="https://forms-staging.cognitoforms.com/f/yJUKHQM7uk21MVkxNTRVyg/97" layout="responsive" resizable frameborder="0" scrolling="yes" height="930" width="800" sandbox="allow-scripts allow-same-origin allow-popups">
-      <div overflow></div>
-      <div placeholder></div>
-    </amp-iframe>
-  </body>
-</html>
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<amp-iframe src="https://forms-staging.cognitoforms.com/f/yJUKHQM7uk21MVkxNTRVyg/97" layout="responsive" resizable frameborder="0" scrolling="yes" height="930" width="800" sandbox="allow-scripts allow-same-origin allow-popups"><div overflow></div><div placeholder></div></amp-iframe>
