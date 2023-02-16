@@ -1,3 +1,2 @@
-layout: page
-title: "iFrame Embed"
-permalink: /iFrameEmbedTesting
+<iframe src="https://hitchcock.cognitoforms.dev/f/G3PQ_nwRUUSFuhxhJvc8Qg/170#JiMytgklqRJ2_6V6AKsAi6JSwd69IBWMnqqhFPQsOik$*" style="border:0;width:100%;" height="900"></iframe>
+<script src="https://hitchcock.cognitoforms.dev/f/iframe.js"></script>
