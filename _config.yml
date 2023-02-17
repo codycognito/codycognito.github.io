@@ -1,3 +1,4 @@
-.nojekyll
 theme: minima
 title: Embedded Form Testing
+
+include: /.well-known/apple-developer-merchantid-domain-association
