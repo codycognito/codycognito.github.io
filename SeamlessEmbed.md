@@ -2,4 +2,4 @@
 
 ##Staging/WFOrg/StripeForm
 
-<script src="https://forms-staging.cognitoforms.com/f/seamless.js" data-key="yJUKHQM7uk21MVkxNTRVyg" data-form="97"></script>
+<script src="https://hitchcock.cognitoforms.dev/f/seamless.js" data-key="G3PQ_nwRUUSFuhxhJvc8Qg" data-form="242"></script>
