@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?> 
+<service xml:base="codycognito.github.io/OData.svc/" 
+         xmlns:atom="https://www.w3.org/2005/Atom" 
+         xmlns:app="https://www.w3.org/2007/app" 
+         xmlns="https://www.w3.org/2007/app">
+  <workspace>
+    <atom:title>Default</atom:title> 
+    <collection href="Entries">
+      <atom:title>Entries</atom:title> 
+    </collection>
+  </workspace>
+</service>
